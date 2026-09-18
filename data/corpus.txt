@@ -1,0 +1,6 @@
+Natural language processing is a field of computer science.
+Computer linguistics studies language with computational methods.
+A corpus contains many documents and documents contain sentences.
+Python is useful for processing linguistic data.
+Machine learning can learn patterns from text data.
+A research project needs data, methods, experiments, and evaluation.

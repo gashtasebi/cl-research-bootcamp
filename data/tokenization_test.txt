@@ -1,0 +1,7 @@
+Dr. Smith works at HHU.
+The price is 12.50 euros.
+Visit https://example.com for more information.
+My email is test@example.com.
+NLP is state-of-the-art.
+This isn't a simple example.
+The student studies Computerlinguistik.
