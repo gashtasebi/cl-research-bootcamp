@@ -1,0 +1,24 @@
+positive | I love this wonderful book.
+positive | The film was excellent and enjoyable.
+positive | This product works perfectly and feels great.
+positive | The service was friendly and helpful.
+positive | A beautiful story with a moving ending.
+positive | The food tastes delicious and fresh.
+positive | The music sounds joyful and uplifting.
+positive | An impressive design and brilliant performance.
+positive | The experience was pleasant and satisfying.
+positive | This app is useful and easy to use.
+positive | A charming film with excellent acting.
+positive | The meal was delightful and well prepared.
+negative | I hate this awful book.
+negative | The film was terrible and boring.
+negative | This product fails constantly and feels poor.
+negative | The service was rude and unhelpful.
+negative | An ugly story with a disappointing ending.
+negative | The food tastes disgusting and stale.
+negative | The music sounds annoying and depressing.
+negative | A weak design and dreadful performance.
+negative | The experience was unpleasant and frustrating.
+negative | This app is useless and hard to use.
+negative | A dull film with terrible acting.
+negative | The meal was awful and badly prepared.
