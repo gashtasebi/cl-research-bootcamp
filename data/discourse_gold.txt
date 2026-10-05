@@ -1,0 +1,6 @@
+1: He -> John; her -> Mary
+2: He -> Bob; her -> Alice
+3: They -> student; it -> book
+4: It -> cat
+5: They -> student
+6: He -> AMBIGUOUS: John, Bob
