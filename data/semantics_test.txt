@@ -1,0 +1,10 @@
+A student reads a book.
+The teacher likes a student.
+A dog sees the teacher.
+The student sleeps.
+A teacher reads the book.
+The book sees a student.
+The student admires a teacher.
+The students read a book.
+A student sees a teacher.
+A teacher sees a student.
