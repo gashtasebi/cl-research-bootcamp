@@ -1,0 +1,16 @@
+positive | negation | The book is not bad.
+positive | negation | The service is not terrible.
+negative | negation | The app is not useful.
+negative | negation | The film is not enjoyable.
+positive | contrast | The movie starts slowly, but the ending is excellent.
+positive | contrast | The device is expensive, but it works perfectly.
+negative | contrast | The food looks delicious, but it tastes awful.
+negative | contrast | The service is friendly, but it is completely unhelpful.
+negative | sarcasm | Great, another app crash.
+negative | sarcasm | Wonderful, my order arrived three hours late.
+positive | sarcasm | Well, look at that: the update actually works perfectly.
+positive | sarcasm | What a surprise: the support team fixed my problem quickly and kindly.
+positive | lexical_shift | The novel is captivating and rewarding.
+positive | lexical_shift | The meal is scrumptious and flavorful.
+negative | lexical_shift | The device is shoddy and defective.
+negative | lexical_shift | The interface is cumbersome and unintuitive.
