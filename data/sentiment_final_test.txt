@@ -1,0 +1,12 @@
+positive | book | The book was wonderful and enjoyable.
+negative | book | The book was dull and disappointing.
+positive | film | The film was brilliant and engaging.
+negative | film | The film was boring and dreadful.
+positive | food | The food was delicious and fresh.
+negative | food | The food was stale and disgusting.
+positive | design | The design is elegant and appealing.
+negative | design | The design is ugly and frustrating.
+positive | product | The product is durable and reliable.
+negative | product | The product is fragile and unreliable.
+positive | service | The service was friendly and helpful.
+negative | service | The service was rude and unhelpful.

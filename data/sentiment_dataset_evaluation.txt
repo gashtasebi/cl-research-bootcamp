@@ -1,0 +1,48 @@
+positive | book | A wonderful book with engaging characters.
+positive | book | The novel is excellent, clear, and enjoyable.
+positive | book | I loved this delightful and moving story.
+positive | book | An impressive book with a satisfying ending.
+negative | book | An awful book with dull characters.
+negative | book | The novel is terrible, confusing, and boring.
+negative | book | I hated this disappointing and lifeless story.
+negative | book | A weak book with an unsatisfying ending.
+positive | film | A brilliant film with engaging actors.
+positive | film | The movie is excellent, clear, and enjoyable.
+positive | film | I loved this delightful and moving film.
+positive | film | An impressive movie with a satisfying ending.
+negative | film | A dreadful film with dull actors.
+negative | film | The movie is terrible, confusing, and boring.
+negative | film | I hated this disappointing and lifeless film.
+negative | film | A weak movie with an unsatisfying ending.
+positive | food | The meal is delicious, fresh, and enjoyable.
+positive | food | I loved this delightful, well-prepared dinner.
+positive | food | The food tastes excellent and satisfying.
+positive | food | A wonderful dish with fresh ingredients.
+negative | food | The meal is awful, stale, and unpleasant.
+negative | food | I hated this disgusting, badly prepared dinner.
+negative | food | The food tastes terrible and disappointing.
+negative | food | A dreadful dish with poor ingredients.
+positive | design | The design is brilliant, clear, and appealing.
+positive | design | I loved this elegant, well-designed interface.
+positive | design | The layout is excellent, useful, and satisfying.
+positive | design | An impressive design with a pleasant appearance.
+negative | design | The design is ugly, confusing, and unappealing.
+negative | design | I hated this cluttered, poorly designed interface.
+negative | design | The layout is terrible, useless, and frustrating.
+negative | design | A dreadful design with an unpleasant appearance.
+positive | product | The product is reliable, useful, and excellent.
+positive | product | I loved this durable, well-made device.
+positive | product | The device works perfectly and feels pleasant.
+positive | product | An impressive product with satisfying performance.
+negative | product | The product is unreliable, useless, and awful.
+negative | product | I hated this fragile, poorly made device.
+negative | product | The device fails constantly and feels unpleasant.
+negative | product | A disappointing product with terrible performance.
+positive | service | The service is friendly, helpful, and excellent.
+positive | service | I loved this polite, efficient customer support.
+positive | service | The staff were kind and made the visit pleasant.
+positive | service | A wonderful service with satisfying support.
+negative | service | The service is rude, unhelpful, and awful.
+negative | service | I hated this slow, careless customer support.
+negative | service | The staff were hostile and made the visit unpleasant.
+negative | service | A dreadful service with disappointing support.
